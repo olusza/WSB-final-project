@@ -1,6 +1,6 @@
 # WSB-final-project
 
-##**Testy automatyczne modułów**
+## Testy automatyczne modułów
 
 Obecnie są dostępne dwa moduły: 
 
@@ -14,6 +14,6 @@ Przykład dla modułu Rejestracji:
 $ cd Modul_RU
 $ python kontroler_RU.py
 ```
-### Wymagania:
+## Wymagania:
 * Selenium WebDriver
 * Sterowniki dla przeglądarek: Chrome (chromedriver), Firefox (geckodriver) oraz Edge (Microsoft WebDriver)
